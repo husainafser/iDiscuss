@@ -1,0 +1,23 @@
+footer {
+    background-color: #333;
+    overflow: hidden;
+}
+
+footer a {
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    color: white;
+}
+/* .icon a{
+    background-color: rgb(156, 154, 154); 
+    padding: 10px 15px;
+    border-radius: 30px;
+    margin:5px 10px ;
+    text-decoration: none;
+ }
+ .fa-facebook {
+    background: #3B5998;
+    color: white;
+  } */
